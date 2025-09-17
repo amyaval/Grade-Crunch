@@ -17,6 +17,11 @@ npm install
 
 Make sure to have a .env file at the backend folder of the project.
 
+Additionally, this project is styled by version 4.1.13 of Tailwind CSS, so make sure to install in the frontend/grade-crunch folder of the project.
+```
+npm install -D tailwindcss@4.1.13 postcss autoprefixer
+```
+
 **Environment Variables**
 
 This project uses the express framework as the backend, so you need to install express in the backend folder.
